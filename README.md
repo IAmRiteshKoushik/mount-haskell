@@ -6,15 +6,15 @@ borrow very heavily from functional paradigms of thinking.
 
 ## Table of Contents
 
-* [Chapter 1 : Features and Syntax](#chapter-1-features-and-syntax)
-* [Chapter 2 : Constructs](#chapter-2-constructs)
-* [Chapter 3 : More Functions + Function Composition](#chapter-3-more-functions--function-composition)
-* [Chapter 4 : Modules in Haskell](#chapter-4-modules-in-haskell)
-* [Chapter 5 : I/O in Haskell](#chapter-5-i-o-in-haskell)
-* [Chapter 6 : Functors in Haskell](#chapter-6-functors-in-haskell)
-* [Chapter 7 : Monads in Haskell](#chapter-7-monads-in-haskell)
-* [Chapter 8 : Monoids in Haskell](#chapter-8-monoids-in-haskell)
-* [Chapter 9 : Zippers in Haskell](#chapter-9-zippers-in-haskell)
+* [Chapter 1 : Features and Syntax](#chapter-1--features-and-syntax)
+* [Chapter 2 : Constructs](#chapter-2--constructs)
+* [Chapter 3 : More Functions + Function Composition](#chapter-3--more-functions--function-composition)
+* [Chapter 4 : Modules in Haskell](#chapter-4--modules-in-haskell)
+* [Chapter 5 : I/O in Haskell](#chapter-5--io-in-haskell)
+* [Chapter 6 : Functors in Haskell](#chapter-6--functors-in-haskell)
+* [Chapter 7 : Monads in Haskell](#chapter-7--monads-in-haskell)
+* [Chapter 8 : Monoids in Haskell](#chapter-8--monoids-in-haskell)
+* [Chapter 9 : Zippers in Haskell](#chapter-9--zippers-in-haskell)
 
 ### Chapter 1 : Features and Syntax
 In Haskell, we just tell Haskell to do things and not bother too much about the 
